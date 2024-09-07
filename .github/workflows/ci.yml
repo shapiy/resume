@@ -4,9 +4,6 @@ jobs:
   ci:
     name: run
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        ruby: [3.0.0, 2.6.0]
     steps:
       - uses: actions/checkout@master
       - uses: mstachniuk/ci-skip@v1
@@ -15,7 +12,7 @@ jobs:
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: ${{ matrix.ruby }}
+          ruby-version: '3.2.2'
       - name: "Update Rubygems & Bundler"
         run: "gem update --system --no-document && gem update bundler --no-document"
       - name: "Install Bundler 2"
