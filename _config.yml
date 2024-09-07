@@ -1,5 +1,4 @@
 title: Résumé
-baseurl: "/resume/"
 color: grape
 exclude:
   - _README.md
