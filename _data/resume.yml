@@ -1,55 +1,153 @@
-title: Résumé
-name: YOUR NAME
-jobtitle: Your Job Title
+title: Serhii's CV
+name: SERHII HAPII
+jobtitle: Seasoned Software Engineer, Engineering Lead.
 contact:
   - icon: fa-envelope
-    text: youremail@example.com
-  - icon: fa-phone-square
-    text: your-phone-num
-  - icon: fa-globe
-    text: your-website.com
-    link: https://crispgm.github.io/resume/resume.html
+    text: hapiy.serhiy@gmail.com
+    link: mailto:hapiy.serhiy@gmail.com
+  - icon: fa-telegram
+    text: jesuiscedric
+    link: https://t.me/jesuiscedric
+  - icon: fa-linkedin
+    text: linkedin
+    link: https://www.linkedin.com/in/shapiy/
   - icon: fa-github
-    text: your-github
-    link: https://github.com/crispgm/resume
+    text: github
+    link: https://github.com/shapiy
 education:
-  - university: Your First University
-    duration: Jul 2011 - Dec 2012
-    location: Consectetur adipiscing elit
-    major: Lorem ipsum dolor sit amet
-  - university: Your Second University
-    duration: Aug 2007 - Jun 2011
-    location: Ut enim ad minim veniam
-    major: Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+  - university: Lviv State Institute of Modern Technologies and Management Named After V. Chornovil
+    duration: 2008 - 2011
+    location: Lviv, Ukraine
+    major: Information Security Management
+  - university: Lviv Polytechnic National University
+    duration: 2011 - 2012
+    location: Lviv, Ukraine
+    major: Information Security Management, BSc
 skills:
-  - title: Skill Group 1
-    items: Lorem, Ipsum, Dolor, Sit, Amet
-  - title: Skill Group 2
-    items: Consectetur, Adipiscing, Elit
-  - title: Skill Group 3
-    items: Sed do, Eiusmod, Tempor, Incididunt
+  - title: Programming Languages
+    items: Java, Python, JavaScript, TypeScript, Clojure, Bash
+  - title: Backend
+    items: Microservices, DropWizard, Micronaut, Spring, FastAPI, Flask, SQL, NoSQL, Redis
+  - title: Frontend
+    items: React, Next.js, Sass/SCSS, Tailwind CSS, SPAs, SSG
+  - title: Big Data
+    items: Hadoop, Spark, Kafka, NoSQL, EMR, Athena, Airflow, Luigi, ETL, Data Warehouse
+  - title: DevOps and Infrastructure
+    items: AWS, GCP, Ansible, Chef, AWS CDK, Terraform, Docker, OpenTelemetry
 experience:
-  - title: Job Title 1
-    duration: Apr 2016 - Now
-    company: Your 1st, Inc.
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-  - title: Job Title 2
-    duration: Apr 2013 - Mar 2016
-    company: Your 2nd, Inc.
-    description: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-  - title: Job Title 3
-    duration: Dec 2011 - Mar 2012
-    company: Your 3rd Co, Ltd.
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-projects:
-  - name: Project Name 1
-    description: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-    contribution: Contributor.
-  - name: Project Name 2
-    description: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-    contribution: Creator and maintainer.
+  - title: Software Engineering Consultant, Part-Time
+    company: DraftWise
+    duration: Feb 2024 - Present
+    description: |
+      <ul>
+        <li>Joined the Series A startup to build AI-powered contract platform that assists law firms in procuring quality contracts.</li>
+        <li>Driving end-to-end development, working across <strong>frontend</strong>, <strong>backend</strong>, and <strong>infrastructure</strong> components.</li>
+        <li>Implemented features that reduced manual tasks for Customer Success and engineering teams.</li>
+        <li>Developed enhancements to improve search results, delivering better context and insights on lawyer information.</li>
+      </ul>
+  - title: Soldier
+    company: Armed Forces of Ukraine
+    duration: Mar 2022 - Aug 2024
+    description: | 
+      <ul>
+        <li>With the start of the full scale invasion of Ukraine, I volunteered to Ukrainian Armed Forces.</li>
+        <li>Served on the battlefield.</li>
+        <li>Joined a technological squad to lead IT projects for the Ministry of Defence.</li>
+        <li>Spearheaded critical initiatives to enhance defense capabilities through technology-driven solutions.</li>
+      </ul>
+  - title: Senior Software Engineer
+    company: Attendify, Hopin
+    duration: Dec 2020 - Feb 2022
+    description: |
+      <ul>
+        <li>Developed new features from scratch for an event platform supporting live and online events.</li>
+        <li>Engineered a <strong>centralized logging</strong> solution that streamlined system monitoring processes, resulting in a 40% reduction in troubleshooting time for developers, enhancing overall productivity in software deployments.</li>
+        <li>Developed the new video group chat feature, and maintained WebRTC based video streaming.</li>
+        <li>Strengthened system stability by contributing to the <strong>alerting infrastructure</strong>.</li>
+        <li>Modernized the deployment process of legacy Python services using <strong>Docker</strong>.</li>
+        <li><strong>Technologies</strong>: Clojure, Aleph, Manifold, Postgres, Kafka, Ansible, ELK, Prometheus, Docker, Consul.</li>
+      </ul>
+      Attendify was acquired by Hopin, the industry leader, in July 2021.
+  - title: Senior Software Engineer
+    company: Takeoff Technologies, Inc.
+    duration: Jan 2020 - Dec 2020
+    description: |
+      <ul>
+        <li>Designed and launched a state-of-the-art robotic storehouse for the eGrocery platform, 
+        which handled over 2,000 orders daily, improving operational efficiency and reducing delivery 
+        times by 60% for online customers.</li>
+        <li>Optimized data flow and system performance by integrating various technologies and tools.</li>
+        <li>
+          <strong>Technologies:</strong>
+          <ul>
+            <li><strong>Languages and Frameworks</strong>: Clojure, ClojureScript, ring, compojure,
+              Python, Django
+            </li>
+            <li><strong>Data</strong>: Apache Camel, ArangoDB, Postgres, ElasticSearch</li>
+            <li><strong>Infrastructure</strong>: Google PubSub, Google Cloud Storage, Kubernetes,
+              Prometheus
+            </li>
+          </ul>
+        </li>
+      </ul>
+  - title: Software Engineer
+    company: Shareaholic, Inc.
+    duration: Nov 2018 - Nov 2020
+    description: |
+      <ul>
+        <li>Engineered a large-scale <strong>analytics platform</strong>, driving the implementation of a robust data integration system combining <strong>hundreds of data sources</strong> and <strong>terabytes of data</strong>.</li>
+        <li>Developed advanced analytics features, including anomaly detection, top N users, classification, segmentation, etc.</li>
+        <li>Led migration of <strong>Python 2</strong> services to <strong>Python 3</strong>, ensuring modernization and future-proofing of the codebase.</li>
+        <li>Established and enforced <strong>code quality guidelines</strong> and <strong>best practices</strong> to enhance development efficiency and maintainability.</li>
+      </ul>
+  - title: Software engineer
+    company: Intelliarts Ltd.
+    duration: Jan 2018 - Nov 2018
+    description: |
+      <ul>
+        <li>Created a <strong>business enablement platform</strong> supporting all operations (sales, billing, finance, HR, etc.) for a $4B+ technology company.</li>
+        <li>Developed the backend, comprising <strong>hundreds of microservices</strong> built with <strong>Java 8</strong> and <strong>DropWizard</strong>.</li>
+        <li>The Platform is recognized by PCMag as one of the best CRM software of 2018.</li>
+        <li>Technologies: <strong>Amazon SQS</strong>, <strong>Apache Kafka</strong>, <strong>MySQL</strong>, and <strong>Vitess</strong>.</li>
+      </ul>
+  - title: Software engineer
+    company: Reltio
+    duration: Jan 2017 - Jan 2018
+    description: |
+      <ul>
+        <li>Developed <strong>search</strong> and <strong>export</strong> solutions for <strong>Reltio Cloud</strong>, a modern <strong>MDM PaaS</strong>.</li>
+        <li>Leveraged <strong>NoSQL</strong>, <strong>search</strong>, and <strong>messaging</strong> technologies to integrate heterogeneous customer data.</li>
+        <li>Maintained legacy components while building new solutions using cluster computing technologies like <strong>Apache Spark</strong>.</li>
+      </ul>
+  - title: Software engineer
+    company: EPAM Systems
+    duration: Jul 2016 - Dec 2016
+    description: |
+      <ul>
+        <li>Facilitated the development of a <strong>data lake</strong> for a global healthcare leader, using <strong>Hadoop ecosystem</strong>.</li>
+        <li>Collaborated with the customer <strong>on-site</strong> during the first month of the project.</li>        
+      </ul>
+  - title: Software engineer
+    duration: Apr 2012 - Jun 2016
+    company: Intelliarts Ltd.
+    description: |
+      <ul>
+        <li>Implemented automated test environment for a <strong>digital marketing</strong> company.</li>
+        <li>Developed a <strong>data analytics system</strong> using <strong>Hadoop MapReduce</strong> and alternative cluster computing systems.</li>
+      </ul>
+#projects:
+#  - name: Project Name 1
+#    description: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+#    contribution: Contributor.
+#  - name: Project Name 2
+#    description: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+#    contribution: Creator and maintainer.
 languages:
   - name: English
     proficiency: Work proficiency
-  - name: Mandarin Chinese
+  - name: Ukrainian
     proficiency: Native
+  - name: Polish
+    proficiency: Elementary
+  - name: Greek
+    proficiency: Elementary
