@@ -2,8 +2,7 @@ title: Résumé
 baseurl: "/resume/"
 color: grape
 exclude:
-  - README.md
-  - "README_zh-CN.md"
+  - _README.md
   - LICENSE
   - Gemfile
   - Gemfile.lock
