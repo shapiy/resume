@@ -25,7 +25,7 @@ education:
     major: Information Security Management, BSc
 skills:
   - title: Programming Languages
-    items: Java, Python, JavaScript, TypeScript, Clojure, Bash
+    items: Java, Python, JavaScript, TypeScript, Clojure, Ruby, Bash
   - title: Backend
     items: Microservices, DropWizard, Micronaut, Spring, FastAPI, Flask, SQL, NoSQL, Redis
   - title: Frontend
@@ -33,7 +33,7 @@ skills:
   - title: Big Data
     items: Hadoop, Spark, Kafka, NoSQL, EMR, Athena, Airflow, Luigi, ETL, Data Warehouse
   - title: DevOps and Infrastructure
-    items: AWS, GCP, Ansible, Chef, AWS CDK, Terraform, Docker, OpenTelemetry
+    items: AWS, GCP, Ansible, Chef, AWS CDK, Terraform, Kubernetes, Docker, OpenTelemetry
 experience:
   - title: Software Engineering Consultant, Part-Time
     company: DraftWise
@@ -44,6 +44,7 @@ experience:
         <li>Driving end-to-end development, working across <strong>frontend</strong>, <strong>backend</strong>, and <strong>infrastructure</strong> components.</li>
         <li>Implemented features that reduced manual tasks for Customer Success and engineering teams.</li>
         <li>Developed enhancements to improve search results, delivering better context and insights on lawyer information.</li>
+      <li><strong>Technologies</strong>: Java, Python, TypeScript, React, AWS, AWS CDK, ElasticSearch, Prometheus.</li>
       </ul>
   - title: Soldier
     company: Armed Forces of Ukraine
@@ -65,7 +66,7 @@ experience:
         <li>Developed the new video group chat feature, and maintained WebRTC based video streaming.</li>
         <li>Strengthened system stability by contributing to the <strong>alerting infrastructure</strong>.</li>
         <li>Modernized the deployment process of legacy Python services using <strong>Docker</strong>.</li>
-        <li><strong>Technologies</strong>: Clojure, Aleph, Manifold, Postgres, Kafka, Ansible, ELK, Prometheus, Docker, Consul.</li>
+        <li><strong>Technologies</strong>: Clojure, Ruby, Aleph, Manifold, Postgres, Kafka, Ansible, ELK, Prometheus, Docker, Consul.</li>
       </ul>
       Attendify was acquired by Hopin, the industry leader, in July 2021.
   - title: Senior Software Engineer
@@ -99,6 +100,7 @@ experience:
         <li>Developed advanced analytics features, including anomaly detection, top N users, classification, segmentation, etc.</li>
         <li>Led migration of <strong>Python 2</strong> services to <strong>Python 3</strong>, ensuring modernization and future-proofing of the codebase.</li>
         <li>Established and enforced <strong>code quality guidelines</strong> and <strong>best practices</strong> to enhance development efficiency and maintainability.</li>
+      <li><strong>Technologies</strong>: Python, Ruby, Java, Redshift, AWS Athena, EMR, HAProxy, Chef.</li>
       </ul>
   - title: Software engineer
     company: Intelliarts Ltd.
@@ -108,7 +110,7 @@ experience:
         <li>Created a <strong>business enablement platform</strong> supporting all operations (sales, billing, finance, HR, etc.) for a $4B+ technology company.</li>
         <li>Developed the backend, comprising <strong>hundreds of microservices</strong> built with <strong>Java 8</strong> and <strong>DropWizard</strong>.</li>
         <li>The Platform is recognized by PCMag as one of the best CRM software of 2018.</li>
-        <li>Technologies: <strong>Amazon SQS</strong>, <strong>Apache Kafka</strong>, <strong>MySQL</strong>, and <strong>Vitess</strong>.</li>
+        <li><strong>Technologies</strong>: AWS, Amazon SQS, Java, Apache Kafka, MySQL, and Vitess.</li>
       </ul>
   - title: Software engineer
     company: Reltio
